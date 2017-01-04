@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-First time using Mac OS; default swift code "any" instead of "AnyObject" when creating a function caused some problems when linking a connected action. 
+First time using Mac OS; Default to "Any" instead of "AnyObject" when creating a function caused some problems when linking an action to that function. 
 
 ## License
 
